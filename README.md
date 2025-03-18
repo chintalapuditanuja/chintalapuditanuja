@@ -1,8 +1,14 @@
-<h1 align="left">Hey</h1>
+<h1 align="left">Hi there, I'm Tanuja 👋</h1>
 
 ###
 
-<p align="left">I am Tanuja, currently studying my Master's in Information Systems with a major in Data Analysis.</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/laxmi-naga-tanuja-c-217003208/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  </a>
+</p>
+
+<p align="left">Glad to see you here! 😊</p>
 
 ###
 
@@ -10,7 +16,22 @@
 
 ###
 
-<p align="left">✨ Passionate about coding since my undergrad <br>📚 Currently exploring Python development <br>🔐 Self-learning Cybersecurity <br>🎯 Eager to learn new technologies and expand my skill set</p>
+<p align="left">
+  🎓 Full-time Master's student in <strong>Information Systems</strong> <br>
+  💻 Undergrad in <strong>Computer Science</strong> <br>
+  🚀 Passionate about learning new technologies <br>
+  🔍 Currently exploring <strong>Advanced Data Structures & Algorithms</strong> <br>
+</p>
+
+###
+
+<h2 align="left">What I'm Working On</h2>
+
+###
+
+<p align="left">
+  🎯 Trying to generate <strong>3D visualization of human pose</strong> using AI <br>
+</p>
 
 ###
 
@@ -26,8 +47,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
-</div>
+  <im
+
